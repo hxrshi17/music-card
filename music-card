@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="card.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+        data-tag="font" />
+</head>
+
+<body>
+    <div class="heading">
+        <h1>MUSIC</h1>
+        <p class="subline">ALL YOUR MOTIVATION AT ONE PLACE</p>
+    </div>
+    <div class="card1">
+        <img src="./images/3_1-removebg-preview (1).png" alt="">
+        <h2>
+            WORKOUT MOTIVATION
+FROM THE
+CREATORS
+        </h2>
+       
+    </div>
+    <div class="card2">
+        <img src="./images/save-removebg-preview.png" alt="">
+        <h2>
+            ADD YOUR MUSIC
+        </h2>
+        <p>PERSONALIZE YOUR OWN MOTIVATION USING ADD YOUR MUSIC FEATURE.</p>
+    </div>
+</body>
+
+</html>
